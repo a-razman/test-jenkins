@@ -10,6 +10,7 @@ package com.aymaxconsulting.testjenkins;
  * @author Utilisateur
  */
 public class HomeClass {
+	public static final String msg = "Do it one more time";
 
     public HomeClass() {
 
